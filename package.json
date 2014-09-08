@@ -1,0 +1,17 @@
+{
+  "name": "np-base",
+  "version": "0.0.0",
+  "description": "The Novapost frontend stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2",
+    "backbone.marionette": "~2.1.0",
+    "underscore": "~1.7.0"
+  }
+}

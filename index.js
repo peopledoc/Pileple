@@ -1,0 +1,14 @@
+'use strict';
+
+var backbone = require('backbone');
+var jquery = require('jquery');
+backbone.$ = backbone.$ || jquery;
+
+
+module.exports = {
+  Backbone: backbone,
+  jQuery: jquery,
+  Marionette: require('backbone.marionette'),
+  _: require('underscore'),
+  Associations: require('backbone-associations').Associations
+};
