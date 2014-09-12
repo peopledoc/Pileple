@@ -13,6 +13,6 @@
     "backbone": "~1.1.2",
     "backbone.marionette": "~2.1.0",
     "underscore": "~1.7.0",
-    "backbone-associations": "~0.6.2"
+    "backbone-relational": "git+ssh://git@github.com:xcambar/Backbone-relational.git#module_exports"
   }
 }

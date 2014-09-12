@@ -10,5 +10,6 @@ module.exports = {
   jQuery: jquery,
   Marionette: require('backbone.marionette'),
   _: require('underscore'),
-  Associations: require('backbone-associations').Associations
+  Relational: require('backbone-relational')
 };
+
