@@ -14,5 +14,9 @@
     "backbone.marionette": "~2.1.0",
     "underscore": "~1.7.0",
     "backbone-relational": "git+ssh://git@github.com:xcambar/Backbone-relational.git#module_exports"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bump": "0.0.15"
   }
 }
