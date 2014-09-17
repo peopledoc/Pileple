@@ -7,7 +7,7 @@ backbone.$ = backbone.$ || jquery;
 
 module.exports = {
   Backbone: backbone,
-  jQuery: jquery,
+  $: jquery,
   Marionette: require('backbone.marionette'),
   _: require('underscore'),
   Relational: require('backbone-relational'),
