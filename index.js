@@ -10,6 +10,7 @@ module.exports = {
   jQuery: jquery,
   Marionette: require('backbone.marionette'),
   _: require('underscore'),
-  Relational: require('backbone-relational')
+  Relational: require('backbone-relational'),
+  i18n: require('i18next-client')
 };
 

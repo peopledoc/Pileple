@@ -13,7 +13,8 @@
     "backbone": "~1.1.2",
     "backbone.marionette": "~2.1.0",
     "underscore": "~1.7.0",
-    "backbone-relational": "git+ssh://git@github.com:xcambar/Backbone-relational.git#module_exports"
+    "backbone-relational": "git+ssh://git@github.com:xcambar/Backbone-relational.git#module_exports",
+    "i18next-client": "~1.7.4"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
