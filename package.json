@@ -1,6 +1,6 @@
 {
   "name": "pileple",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Novapost frontend stack",
   "main": "index.js",
   "scripts": {
